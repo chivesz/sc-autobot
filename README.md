@@ -16,9 +16,9 @@ Version information:
 
 v0.1
 
--created script 1.sh, uploaded to new github project 'sc-autobot' (https://github.com/chivesz/sc-autobot)
+-Created script 1.sh, uploaded to new github project 'sc-autobot' (https://github.com/chivesz/sc-autobot)
 
--performed minimal testing via new Ubuntu current/stable install
+-Performed minimal testing via new Ubuntu current/stable install
 
 -Determined script works every time, first try, and the desired result is accomplished
 
@@ -26,6 +26,6 @@ v0.2
 
 -renamed 1.sh to sc-autobot.sh
 
--created readme
+-Created readme
 
--added GNU License 3.0
+-Added GNU License 3.0
