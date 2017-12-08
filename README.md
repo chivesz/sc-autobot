@@ -1,4 +1,6 @@
 # sc-autobot
+Version 0.2
+
 For Ubuntu current/stable
 
 To run this script, run the following commands:
