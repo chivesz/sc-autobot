@@ -1,6 +1,8 @@
 # sc-autobot
 Version 0.2
 
+This script will update all applications, download the solarcoin-qt wallet, as well as its dependencies, then automatically install and run solarcoin-qt. It comes with aboslutely no warranty, and is licensed under GNU Public License 3.0. You may modify/share this code. Use at your own risk.
+
 For Ubuntu current/stable
 
 To run this script, run the following commands:
