@@ -3,9 +3,9 @@ For Ubuntu current/stable
 
 To run this script, run the following commands:
 
-sudo chmod +x ./1.sh
+sudo chmod +x ./sc-autobot.sh
 
-./1.sh
+./sc-autobot.sh
 
 
 --Osiris
