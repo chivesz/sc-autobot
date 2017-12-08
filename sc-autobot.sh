@@ -1,8 +1,9 @@
+#version 0.2
 #fairly sure a three year old could have done this...
 echo _______________________________________________________________
 echo _Initializing Solarcoin-qt wallet auto installer script
 echo _This script was written by chivesz - it may be modified and or redistributed
-echo _GNU General Public License
+echo _GNU General Public License 3.0
 echo _Updating applications
 echo _Authorization required
 sudo apt-get update
