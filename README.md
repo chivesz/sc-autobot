@@ -13,7 +13,7 @@ sudo chmod +x ./sc-autobot.sh
 ./sc-autobot.sh
 
 
---Osiris
+--Chivesz
 
 Version information:
 
