@@ -15,7 +15,7 @@ sudo chmod +x ./sc-autobot.sh
 ./sc-autobot.sh
 
 
---Chivesz
+_____________________________________________________________________
 
 Version information:
 
