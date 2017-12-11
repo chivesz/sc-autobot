@@ -17,6 +17,7 @@ auto:
 4) check hard disk for errors
 5) if memory/HD errors exist, user is informed/asked if they would like to proceed
 6) connect to HWG cloud for backups, sets weekly/daily/hourly schedule based on user preference
+7) complete all omitted tasks the current script (v0.2) does
 
 v0.9999
 how can we implement some or all of these things into this concept
