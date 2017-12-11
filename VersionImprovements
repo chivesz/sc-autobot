@@ -1,0 +1,27 @@
+v0.3
+identify security flaws in current code
+
+v0.4
+script now installs ubuntu/solarcoin-qt automatically from a bootable encrypted USB
+
+the goal is to make installing a hardware wallet something the average person can do,
+so all that needs to happen is: (1) hand them a hard drive, and (2) instructions on how to boot
+
+auto:
+1) install ubuntu
+2) sudo enable ufw (figure out the best config for this based on what will be on the image)
+3) turn off ipv6
+3) add vpn tunnel
+2) encrypt entire hard disk
+3) check memory
+4) check hard disk for errors
+5) if memory/HD errors exist, user is informed/asked if they would like to proceed
+6) connect to HWG cloud for backups, sets weekly/daily/hourly schedule based on user preference
+
+v0.9999
+how can we implement some or all of these things into this concept
+ELECTRUMCHAIN
+CHAINOFTHINGS
+CHAINOFSECURITY
+CHAINOFSOLAR
+CHAINOFSHIPPING
